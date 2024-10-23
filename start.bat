@@ -1,0 +1,1 @@
+start NewDN.exe /ip:95.213.255.21 /port:14300 /enet  /use_packing /bgfx
